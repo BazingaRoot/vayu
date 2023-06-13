@@ -777,7 +777,7 @@ section {
 ================ */
 #body-content {
 	/* set a height and a z-index to be sure that the main element completely covers the lateral menu */
-	height: 100%;
+	height: 100vh;
 	position: relative;
 	z-index: 2;
 	/* Force Hardware Acceleration in WebKit */
